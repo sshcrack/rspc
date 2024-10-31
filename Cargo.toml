@@ -26,7 +26,7 @@ tracing = ["dep:tracing"]
 
 [dependencies]
 specta = { version = "1.0.5", features = ["serde", "typescript"] }
-specta2 = { package = "specta", optional = true, version = "=2.0.0-rc.11", features = [
+specta2 = { package = "specta", optional = true, version = "=2.0.0-rc.20", features = [
     "serde",
     "typescript"
 ] }
